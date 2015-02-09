@@ -23,3 +23,4 @@ Schemas.Posts = new SimpleSchema({
 });
 
 Posts.attachSchema(Schemas.Posts);
+

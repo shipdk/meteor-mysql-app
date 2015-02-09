@@ -2,5 +2,57 @@
   <title>Meteor startup package</title>
   <meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=no">
   <link rel="icon" href="/favicon.png" type="image/png" />
+  <link rel="import" href="bower_components/paper-checkbox/paper-checkbox.html">
+
 </head>
 
+<body>
+
+
+  <div class="wrapper">
+    <div class="hero">
+      <h1>Hello world</h1>
+      <p>This package is made by <a href="http://www.designmonkey.dk" target="_blank">designmonkey.dk</a></p>
+    </div>
+
+  <div class="outer">
+    <div class="logo"></div>
+    <h1 class="title">Leaderboard</h1>
+    <div class="subtitle">Select a scientist to give them points</div>
+    {{> leaderboard}}
+  </div>
+
+
+
+  </div>
+
+
+
+</body>
+
+
+
+
+<template name="leaderboard">
+  <ol class="leaderboard">
+    {{#each players}}
+      {{> player}}
+    {{/each}}
+  </ol>
+
+  {{#if selectedName}}
+    <div class="details">
+      <div class="name">{{selectedName}}</div>
+      <button class="inc">Add 5 points</button>
+    </div>
+  {{else}}
+    <div class="message">Click a player to select</div>
+  {{/if}}
+</template>
+
+<template name="player">
+  <li class="player {{selected}}">
+    <span class="name">{{name}}</span>
+    <span class="score">{{score}}</span>
+  </li>
+</template>

@@ -1,0 +1,743 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Meteor",
+				"Meteor.methods	Meteor.methods(methods)"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"teaser",
+				"teaserText"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"rot",
+				"rotationY"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"info",
+				"infoboxBottom"
+			],
+			[
+				"infobo",
+				"infoboxTop"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"last",
+				"lastCoords"
+			],
+			[
+				"year",
+				"year1984"
+			],
+			[
+				"ease",
+				"easeOut"
+			],
+			[
+				"path",
+				"pathString"
+			],
+			[
+				"scrol",
+				"scroll	.scroll()"
+			],
+			[
+				"line",
+				"linePosition"
+			],
+			[
+				"circle",
+				"circleRadius"
+			],
+			[
+				"circ",
+				"circleRadius"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"wa",
+				"waitOn"
+			],
+			[
+				"footer",
+				"footerHeight"
+			],
+			[
+				"gr",
+				"grayscale	Sass-function"
+			],
+			[
+				"mouse",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"Sess",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"Sessi",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"onHoverS",
+				"onHoverEasing"
+			],
+			[
+				"onHo",
+				"onHoverEasing"
+			],
+			[
+				"svg",
+				"svgIconConfig"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"Mete",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Meteors",
+				"Meteor.settings	Meteor.settings"
+			],
+			[
+				"user",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"box",
+				"boxWhite"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"sel",
+				"selector"
+			],
+			[
+				"ev",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"l",
+				"layout"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"toS",
+				"toString"
+			],
+			[
+				"random",
+				"randomSeat"
+			],
+			[
+				"rnd",
+				"random  (function)"
+			],
+			[
+				"Met",
+				"Meteor.call	Meteor.call(name, param1, param2, ... [, asyncCallback])"
+			],
+			[
+				"_",
+				"_level3"
+			],
+			[
+				"_lev",
+				"_level2"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"content",
+				"contentView"
+			],
+			[
+				"requ",
+				"requestData"
+			],
+			[
+				"db",
+				"dbview"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: /deep/"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"file m",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"pakc lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Preferences: Browse Packages"
+			],
+			[
+				"folder",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"package ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 69.0,
+		"history":
+		[
+			"meteor",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Peter/Repositories/test-repos",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates/about",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates/home",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates/layout",
+		"/Users/Peter/Repositories/test-repos/polymer-demo2/public"
+	],
+	"file_history":
+	[
+		"/Users/Peter/Repositories/polymertest/public/bower_components/paper-checkbox/paper-checkbox.css",
+		"/Users/Peter/Repositories/polymertest/polymertest.js",
+		"/Users/Peter/Repositories/test-repos/polymer-demo2/polymer-demo2.css",
+		"/Users/Peter/Repositories/meteor-mysql-app/client/modules/frontpage/frontpage.js",
+		"/Users/Peter/Repositories/meteor-mysql-leaderboard/leaderboard.js",
+		"/Users/Peter/Repositories/polymertest/polymertest.css",
+		"/Users/Peter/Repositories/polymertest/polymertest.html",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates/layout/imports.html",
+		"/Users/Peter/Repositories/test-repos/polymer-demo/client/templates/about/about.html",
+		"/Users/Peter/Repositories/test-repos/polymer-demo2/polymer-demo2.html",
+		"/Users/Peter/Repositories/meteor-mysql-app/client/main.html",
+		"/Users/Peter/Repositories/meteor-mysql-app/server/fixtures.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/client/modules/frontpage/frontpage.html",
+		"/Users/Peter/Repositories/meteor-mysql-app/server/methods.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/server/publications.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/collections/Posts.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/lib/routes/frontpage.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/lib/routes/controller.js",
+		"/Users/Peter/Repositories/meteor-mysql-app/client/modules/frontpage/frontpage.css",
+		"/Users/Peter/Repositories/test-repos/testlite/settings.json",
+		"/Users/Peter/Repositories/test-repos/testlite/.meteor/local/build/programs/server/assets/packages/wolves_neat/scss.json",
+		"/Users/Peter/Repositories/test-repos/testlite/client/main.scss",
+		"/Users/Peter/.bash_profile",
+		"/Users/Peter/bin/ship",
+		"/Users/Peter/Repositories/test-repos/testlite/client/main.html",
+		"/Users/Peter/lib/ship",
+		"/Users/Peter/Repositories/test-repos/testlite/scss.json",
+		"/Users/Peter/Repositories/test-repos/testlite/.meteor/local/build/programs/server/assets/packages/wolves_neat/_neat.scss",
+		"/Users/Peter/Repositories/test-repos/testlite/.meteor/local/build/programs/server/assets/packages/wolves_neat/neat/_neat.scss",
+		"/Users/Peter/Repositories/test-repos/testlite/.meteor/packages",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/client/main.html",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/client/modules/frontpage/frontpage.html",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/client/main.scss",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/lib/routes/controller.js",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/private/orion-config.json",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/client/_init.scss",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/.gitignore",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/lib/routes/frontpage.js",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/server/fixtures.js",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/server/publications.js",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/collections/Posts.js",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/.meteor/packages",
+		"/Users/Peter/Repositories/meteor-boilerplate-lite/bower.json",
+		"/Users/Peter/Repositories/test-repos/yo-ionic/package.json",
+		"/Users/Peter/Repositories/grunttest/build/css/master.css",
+		"/Users/Peter/Repositories/grunttest/package.json",
+		"/Users/Peter/Repositories/grunttest/test.html",
+		"/Users/Peter/Repositories/server.js",
+		"/Users/Peter/Repositories/grunttest/server/index.js",
+		"/Users/Peter/Repositories/grunttest/assets/base.js",
+		"/Users/Peter/Repositories/designmonkey/.meteor/packages",
+		"/Users/Peter/Repositories/PokerApp/PokerApp.css",
+		"/Users/Peter/Repositories/node-js-getting-started/Procfile",
+		"/Users/Peter/Repositories/meteoradmin/meteor-starter/README.md",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/app/lib/router.js",
+		"/Users/Peter/Repositories/designmonkey/lib/router.js",
+		"/Users/Peter/Repositories/designmonkey/settings.json",
+		"/Users/Peter/Repositories/designmonkey/client/bio/bio.js",
+		"/Users/Peter/Repositories/designmonkey/client/bio/bio.scss",
+		"/Users/Peter/Repositories/designmonkey/client/lab/lab.js",
+		"/Users/Peter/Repositories/designmonkey/public/svg/Lab_Bubbles.svg",
+		"/Users/Peter/Repositories/designmonkey/client/layout.html",
+		"/Users/Peter/Repositories/designmonkey/client/bio/bio.html",
+		"/Users/Peter/Repositories/designmonkey/client/main.html",
+		"/Users/Peter/Repositories/meteortest/client/main.scss",
+		"/Users/Peter/Repositories/designmonkey/client/main.scss",
+		"/Users/Peter/bash_profile",
+		"/Users/Peter/Repositories/designmonkey/client/cv/cv.html",
+		"/Users/Peter/Repositories/designmonkey/client/frontpage/frontpage.scss",
+		"/Users/Peter/Repositories/designmonkey/client/lib/fonts.css",
+		"/Users/Peter/Desktop/designmonkey (1)/style.css",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/main.js",
+		"/Users/Peter/Repositories/designmonkey/client/main.js",
+		"/Users/Peter/Repositories/designmonkey/.gitignore",
+		"/Users/Peter/Repositories/designmonkey/client/skills/skills.scss",
+		"/Users/Peter/Repositories/designmonkey/client/skills/skills.js",
+		"/Users/Peter/Repositories/designmonkey/client/skills/skills.html",
+		"/Users/Peter/Repositories/designmonkey/client/lib/skrollr.js",
+		"/Users/Peter/Repositories/designmonkey/client/lib/helpers.js",
+		"/Users/Peter/Repositories/designmonkey/collections/Posts.js",
+		"/Users/Peter/Repositories/designmonkey/client/lib/global.scss",
+		"/Users/Peter/Repositories/designmonkey/client/contact/contact.scss",
+		"/Users/Peter/Repositories/designmonkey/client/lab/lab.scss",
+		"/Users/Peter/Repositories/designmonkey/client/cv/cv.scss",
+		"/Users/Peter/Repositories/designmonkey/client/cv/cv.js",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/npm/mongo/node_modules/mongodb/node_modules/bson/test/node/bson_array_test.js",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/assets/packages/wolves_bourbon/addons/_html5-input-types.scss",
+		"/Users/Peter/Repositories/designmonkey/server/instagram.js",
+		"/Users/Peter/Repositories/designmonkey/client/lib/nomralize.css",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/npm/cfs:data-man/node_modules/request/tests/test-option-reuse.js",
+		"/Users/Peter/Repositories/designmonkey/client/lab/lab.html",
+		"/Users/Peter/Repositories/designmonkey/client/.old/cv.js",
+		"/Users/Peter/Repositories/designmonkey/client/.old/cv.html",
+		"/Users/Peter/Repositories/designmonkey/scss.json",
+		"/Users/Peter/Repositories/designmonkey/client/lib/parallex.min.js",
+		"/Users/Peter/Repositories/designmonkey/client/lib/bootstrap.css",
+		"/Users/Peter/Repositories/designmonkey/server/methods.js",
+		"/Users/Peter/Repositories/designmonkey/public/svg/Lab_Liquid.svg",
+		"/Users/Peter/Repositories/triplenine-intranet/main.scss",
+		"/Users/Peter/Repositories/designmonkey/client/footer.html",
+		"/Users/Peter/Repositories/designmonkey/public/svg/Nodejs_logo.svg",
+		"/Users/Peter/Repositories/designmonkey/client/svg/balloon.html",
+		"/Users/Peter/Repositories/designmonkey/client/frontpage/frontpage.js",
+		"/Users/Peter/Repositories/designmonkey/client/frontpage/frontpage.html",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/web.browser/app/client/cv/cv.js",
+		"/Users/Peter/Repositories/designmonkey/client/svg/vimeo.html",
+		"/Users/Peter/Repositories/designmonkey/client/svg/twitter.html",
+		"/Users/Peter/Repositories/designmonkey/client/contact/contact.html",
+		"/Users/Peter/Repositories/designmonkey/client/contact/contact.js",
+		"/Users/Peter/Repositories/designmonkey/client/kompetencer/kompetencer.html",
+		"/Users/Peter/Repositories/designmonkey/client/kompetencer/kompetencer.js",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/npm/ddp/node_modules/sockjs/node_modules/node-uuid/test/compare_v1.js",
+		"/Users/Peter/Repositories/designmonkey/client/lib/svgicons.js",
+		"/Users/Peter/Repositories/designmonkey/.meteor/local/build/programs/server/npm/minifiers/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/Peter/Repositories/umb2meteor/umbstarterkit/lib/helpers.js",
+		"/Users/Peter/Repositories/triplenine-intranet/client/layout.html",
+		"/Users/Peter/Repositories/designmonkey/server/fixtures.js",
+		"/Users/Peter/Repositories/designmonkey/lib/empty.txt",
+		"/Users/Peter/Repositories/designmonkey/public/svg/hamburger-close.svg",
+		"/Users/Peter/Repositories/designmonkey/public/svg/hamburger.svg",
+		"/Users/Peter/Repositories/designmonkey/public/svg/hamburger-hover.svg",
+		"/Users/Peter/Repositories/designmonkey/client/lib/main.js",
+		"/Users/Peter/Repositories/designmonkey/README.md",
+		"/Users/Peter/Repositories/designmonkey/client/loading.html",
+		"/Users/Peter/Repositories/triplenine-intranet/main.html",
+		"/Users/Peter/Repositories/Meteor-startup-package/client/main.html",
+		"/Users/Peter/Repositories/Meteor-startup-package/client/lib/helpers.js",
+		"/Users/Peter/Repositories/designmonkey/main.scss"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scroll",
+			"transi",
+			"nav",
+			"back",
+			"angu",
+			"clear:",
+			"transform",
+			"-10",
+			"\n    ",
+			"clickeven",
+			"config",
+			"var toggled",
+			"\"/>",
+			"      &.comment {\n        background: $boxWhite;\n        border-left: 1px solid $grey;\n        border-right: 1px solid $grey;\n        border-bottom: 1px solid $grey;\n      }",
+			"c8caca",
+			"spades",
+			"requestElementUpdate",
+			"d4581cf8f2a67d250cfd460cf663ea805f639c14.js:13",
+			"5bba862b24dd87fc933607ebbc33fa45ccd8e235.js:12",
+			"VM5158:5",
+			"y",
+			"*/",
+			"audit-argument-checks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "structure.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				".meteor/packages"
+			],
+			[
+				"router",
+				"lib/router.js"
+			],
+			[
+				"bio",
+				"client/bio/bio.scss"
+			],
+			[
+				"lab",
+				"client/lab/lab.scss"
+			],
+			[
+				"main",
+				"client/main.scss"
+			],
+			[
+				"lay",
+				"client/layout.html"
+			],
+			[
+				"skill",
+				"client/skills/skills.scss"
+			],
+			[
+				"la",
+				"client/layout.html"
+			],
+			[
+				"norm",
+				"client/lib/nomralize.css"
+			],
+			[
+				"cv.",
+				"client/.old/cv.js"
+			],
+			[
+				"frontp",
+				"client/frontpage/frontpage.scss"
+			],
+			[
+				"front",
+				"client/frontpage/frontpage.scss"
+			],
+			[
+				"main.",
+				"client/main.html"
+			],
+			[
+				"cv",
+				"client/cv/cv.scss"
+			],
+			[
+				"glob",
+				"client/compatibility/globals.js"
+			],
+			[
+				"contac",
+				"client/contact/contact.scss"
+			],
+			[
+				"fron",
+				"client/frontpage/frontpage.scss"
+			],
+			[
+				"frontpage",
+				"client/frontpage/frontpage.scss"
+			],
+			[
+				"kom",
+				"client/kompetencer/kompetencer.js"
+			],
+			[
+				"cv.js",
+				"client/cv/cv.js"
+			],
+			[
+				"cv.h",
+				"client/cv/cv.html"
+			],
+			[
+				"",
+				"client/lab/lab.html"
+			],
+			[
+				"foo",
+				"client/footer.html"
+			],
+			[
+				"moment",
+				".meteor/local/build/programs/server/packages/mrt_moment.js"
+			],
+			[
+				"board",
+				"collection/coll-boards.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Repositories/designmonkey/designmonkey.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
